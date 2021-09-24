@@ -1,390 +1,1033 @@
 ---
-- council_reference: DA/1/2021
-  address: 20 Junction Road, BAULKHAM HILLS NSW 2153
-  description: 'Stage 1: Demolition, tree removal, construction of an attached dual
-    occupancy and Torrens title subdivision. Stage 2: Construction of detached secondary
-    dwelling'
+- council_reference: BC/76/2021
+  address: 103 Midson Road, EPPING NSW 2121
+  description: Building Certificate for unauthorised alterations
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-01'
-- council_reference: DA/10/2021
-  address: 1 Wyoming Avenue, OATLANDS NSW 2117
-  description: Demolition of existing structures, tree removal, construction of a
-    new dwelling with basement, front fence, cabana and inground swimming pool.
+  date_received: '2021-08-31'
+- council_reference: BC/77/2021
+  address: 2 Bogalara Road, OLD TOONGABBIE NSW 2146
+  description: Construction of a granny flat
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-08'
-- council_reference: DA/11/2021
-  address: 17 Boronia Avenue, EPPING NSW 2121
-  description: Alterations to the existing single dwelling and construction of a secondary
-    dwelling.
+  date_received: '2021-09-17'
+- council_reference: BC/78/2021
+  address: 49 Langdon Road, WINSTON HILLS NSW 2153
+  description: Alterations & additions to the dwelling
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-08'
-- council_reference: DA/12/2021
-  address: 2 Lynden Avenue, CARLINGFORD NSW 2118
-  description: Demolition of the existing dwelling and construction of an attached
-    dual occupancy development.
+  date_received: '2021-09-17'
+- council_reference: BC/79/2021
+  address: ", NSW"
+  description: Created in error - jt
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-08'
-- council_reference: DA/13/2021
-  address: 48 Norfolk Road, EPPING NSW 2121
-  description: Demolition of the existing detached garage and carport, alterations
-    and additions to the existing dwelling house and Torrens Title Subdivision of
-    one lot into two lots.
+  date_received: '2021-09-23'
+- council_reference: BC/80/2021
+  address: 11 Hampden Street, NORTH ROCKS NSW 2151
+  description: Levels of Building
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-08'
-- council_reference: DA/14/2021
-  address: 12 Alexander Street, DUNDAS VALLEY NSW 2117
-  description: Demolition of existing structures, tree removal, construction of an
-    attached dual occupancy, front fence, and retaining walls with associated Torrens
-    Title subdivision.
+  date_received: '2021-09-24'
+- council_reference: CC/442/2021
+  address: 7 Berrigan Street, WINSTON HILLS NSW 2153
+  description: Construction of a secondary dwelling.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-10'
-- council_reference: DA/15/2021
-  address: 2 Christina Street, RYDALMERE NSW 2116
-  description: Demolition of existing structures, tree removal, and construction of
-    a 2 storey attached dual occupancy development with Torrens Title subdivision
-    into 2 lots.
+  date_received: '2021-09-24'
+- council_reference: DA/1157/2016/I
+  address: 661 Victoria Road, MELROSE PARK NSW 2114
+  description: Section 4.55(1A) modification to DA/1157/2016 for a concept plan for
+    4 stage mixed use development, specifically revised mechanism for delivery of
+    required landscaping / public domain upgrades.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-10'
-- council_reference: DA/16/2021
-  address: 435 Wentworth Avenue, TOONGABBIE NSW 2146
-  description: Demolition, tree removal  and construction of a multi-unit development
-    comprising 8 townhouses with basement parking and strata subdivision pursuant
-    to SEPP (Affordable Rental Housing) 2009. The application is Integrated Development
-    under the Roads Act 1993.
+  date_received: '2021-09-09'
+- council_reference: DA/143/2019/B
+  address: 404-406 Church Street, PARRAMATTA NSW 2150
+  description: Section 4.55(2) Modification to DA/143/2019 for the change of use to
+    the ground floor from a retail premises to a licensed food and drink premises
+    (The Royal Oak Hotel 'pub') including fit-out works consisting of a TAB,  gaming
+    area, dining area, kitchen and business identification signage.The modification
+    seeks deletion of Condition No. 84 and amend Condition No. 85 relating to restrictions
+    imposed under the Liquor license.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-11'
-- council_reference: DA/17/2021
-  address: 10A Grand Avenue, ROSEHILL NSW 2142
-  description: Subdivision of Lot 101 DP 811924 to create a northern lot and southern
-    lot with the southern lot to include access, creating a battle-axe lot.
+  date_received: '2021-08-27'
+- council_reference: DA/150/2021/A
+  address: 7 Henson Street, TOONGABBIE NSW 2146
+  description: Section 4.55(1A) modification of DA/150/2021 for demolition of all
+    existing structures and construction of a 2 storey dwelling, in ground swimming
+    pool and associated works. The modification seeks minor adjustments to the windows
+    and internal kitchen layout.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-11'
-- council_reference: DA/179/2020/A
-  address: 14 Parkes Street, HARRIS PARK NSW 2150
-  description: Section 4.55(1A) Modification seeking to modify Conditions 13 and 137
-    of the development consent.
+  date_received: '2021-09-20'
+- council_reference: DA/181/2021/A
+  address: 2 Yimbala Street, RYDALMERE NSW 2116
+  description: Section 4.55(1A) modification of DA/181/2021 for demolition, alterations
+    and additions to the existing dwelling. The modifications include minor changes
+    to the roof planes on the North-Eastern side, and alterations to the windows including
+    minor changes to w2-w12, the removal of w7, replacement of D1 with w13, addition
+    of window w14 and a slight enlargement of the G1 garage door.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-05'
-- council_reference: DA/2/2021
-  address: 4 Sirius Street, DUNDAS VALLEY NSW 2117
-  description: Demolition of the existing dwelling and construction of an attached
-    dual occupancy with Torrens Title subdivision.
+  date_received: '2021-09-13'
+- council_reference: DA/266/2020/A
+  address: 215 Ray Road, EPPING NSW 2121
+  description: Section 4.55(1A) modification of DA/266/2020 for an extension to the
+    existing dwelling and tree removal. The modifications include changing the garage
+    door to the side of the garage, changing the patio to a timber deck, and adding
+    a bi-fold door to the new deck area.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-06'
-- council_reference: DA/20/2021
-  address: 8 Fariola Street, SILVERWATER NSW 2128
-  description: Change of use of the existing warehouse facility to a technical training
-    facility.
+  date_received: '2021-09-20'
+- council_reference: DA/296/2019/B
+  address: 1 Sirius Street, DUNDAS VALLEY NSW 2117
+  description: Section 4.55(1A) modification to the approved DA/296/2019. Proposed
+    modifications includes changes to windows, internal doors and extension to basement.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-11'
-- council_reference: DA/21/2021
-  address: 26 Yarrabee Road, WINSTON HILLS NSW 2153
-  description: Construction of a 1.6m high front fence with gates, and widening of
-    the existing vehicle crossover.
+  date_received: '2021-08-28'
+- council_reference: DA/336/2020/A
+  address: 127 Wentworth Avenue, WENTWORTHVILLE NSW 2145
+  description: |-
+    Section 4.55(1A) modification of DA/336/2020 for lot consolidation, demolition works, removal of twelve (12) trees, construction of a two-storey residential care facility comprising of thirty-four (34) rooms, alterations and additions including adaptive reuse to the heritage item of local significance ‘Castrella’ for use by administration and staff, car parking for fourteen (14) vehicles and associated landscape works. The residential care facility was proposed pursuant to State Environmental Planning Policy (Housing for Seniors or People with a Disability) 2004.
+    The modifications include one additional room and minor internal and external amendments to the approved design and layout.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-11'
-- council_reference: DA/22/2021
-  address: 43 Prospect Street, ROSEHILL NSW 2142
-  description: Alterations and additions to the existing dwelling house.
-  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-11'
-- council_reference: DA/23/2021
-  address: 11 Lincluden Place, OATLANDS NSW 2117
-  description: Removal of 4 trees on a property with state heritage significance (Burnside
-    Homes).
-  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-11'
-- council_reference: DA/24/2021
-  address: 97 Jenkins Road, CARLINGFORD NSW 2118
-  description: Construction of a single storey detached secondary dwelling.
-  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-12'
-- council_reference: DA/25/2021
-  address: 57 Pine Street, RYDALMERE NSW 2116
-  description: Construction of 2 Storey Dwelling.
-  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-12'
-- council_reference: DA/26/2021
+  date_received: '2021-09-15'
+- council_reference: DA/34/2020/A
   address: 10 Darcy Street, PARRAMATTA NSW 2150
-  description: Change of use of a portion of the 6 Parramatta Square upper ground
-    floor from 'lobby' to 'licenced restaurant or cafe'. This application includes
-    a maximum capacity of 177 persons and will operate from 7am to 10pm.
+  description: Section 4.55(1A) Modification to DA/34/2020 seeking to relocate the
+    business identification signage from the eastern façade to the southern façade
+    and increase the depth of the signage.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-12'
-- council_reference: DA/27/2021
-  address: 61 Arthur Street, ROSEHILL NSW 2142
-  description: Demolition of existing garage and construction of a secondary dwelling.
+  date_received: '2021-09-20'
+- council_reference: DA/413/2020/A
+  address: 1 Maismonde Place, CARLINGFORD NSW 2118
+  description: Section 4.55(1A) - Modification for the DA/413/2020 for the minor change
+    to the proposed easement width to be reduced.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-12'
-- council_reference: DA/28/2021
-  address: 98 Kleins Road, NORTHMEAD NSW 2152
-  description: Demolition of ancillary structures, alterations and additions to existing
-    dwelling.
+  date_received: '2021-08-27'
+- council_reference: DA/47/2018/N
+  address: 10 Darcy Street, PARRAMATTA NSW 2150
+  description: Section 4.55(1A) Modification to replace the stairs on the lower ground
+    floor with retail amenities; and amend the subsequent tenancy line of retail tenancy
+    6.03.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-12'
-- council_reference: DA/29/2021
-  address: 31 Neptune Street, DUNDAS VALLEY NSW 2117
-  description: Demolition of existing structures, construction of an attached dual
-    occupancy with basement parking, front boundary fence and Torrens Title subdivision.
-  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-13'
-- council_reference: DA/3/2021
-  address: 83 Evans Road, DUNDAS VALLEY NSW 2117
+  date_received: '2021-09-15'
+- council_reference: DA/534/2018/A
+  address: 10 Christine Street, NORTHMEAD NSW 2152
   description: |-
-    Change of use: change from residential dwellings to a 33-place pre-school under State Environment Planning Policy (Educational Establishment and Child Care Facilities) 2017.
-    Note: this is a brand new application that does not seek approval for building or construction work.
+    Section 4.55(1A) Modification to DA/534/2018 for the demolition works, tree removal, construction of a detached dual occupancy and Torrens title subdivision into 2 lots.
+    The modification includes external finishes to face brick and fibre cement cladding, alterations to kitchen and front fence to be metal.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-06'
-- council_reference: DA/30/2021
-  address: 32 Burrabogee Road, PENDLE HILL NSW 2145
-  description: Demolition of the existing structures and construction of a two storey
-    48 place child care centre with basement car parking.
+  date_received: '2021-09-22'
+- council_reference: DA/537/2020/A
+  address: 4 Lloyd George Avenue, WINSTON HILLS NSW 2153
+  description: Section 4.55(2) modification of DA/537/2020 for demolition of the existing
+    structure, removal of trees and construction of a two storey dwelling with basement
+    and swimming pool. The modifications include the relocation and re-sizing of the
+    swimming pool with a catch basin, elevated landscape area at the rear and associated
+    cut and fill including retaining walls.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-13'
-- council_reference: DA/31/2021
-  address: 44 Northam Drive, NORTH ROCKS NSW 2151
-  description: Construction of a carport, pergola, driveway and associated landscape
-    works.
+  date_received: '2021-09-21'
+- council_reference: DA/547/2020/A
+  address: 59-59A Belmore Street, OATLANDS NSW 2117
+  description: Section 4.55(1A) modification of DA/547/2020 for tree removal and construction
+    of a 2-storey mixed use development comprising a medical centre, 24-hour gym,
+    health service facility, indoor recreation facility, swim school and neighbourhood
+    shop over basement parking for 49 vehicles. The consent was also for fit out and
+    associated signage. The modifications include various minor design changes.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-13'
-- council_reference: DA/33/2021
-  address: 6 Uhrig Road, LIDCOMBE NSW 2141
-  description: Construction of three basement slabs.
+  date_received: '2021-09-06'
+- council_reference: DA/616/2018/A
+  address: 17 Prince Street, GRANVILLE NSW 2142
+  description: Section 4.55(2) Modification of DA/616/2018 to modify the roof, delete
+    upper floor and modify ground floor.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-15'
-- council_reference: DA/34/2021
-  address: 6 Uhrig Road, LIDCOMBE NSW 2141
-  description: Excavation, piling and shoring to create three basement levels and
-    to construct footings, pile caps and lift shafts for a future building.
+  date_received: '2021-08-27'
+- council_reference: DA/639/2019/C
+  address: 22 Kandy Avenue, EPPING NSW 2121
+  description: Section 4.55(2) modification of DA/639/2019 for the construction of
+    a two storey dwelling house with attached double garage and fencing on approved
+    Lot 101 in Stage 2 (approved under DA/189/2018). The modification includes removing
+    the brick column in the porch, raising the roof, reducing the width of the garage
+    and front balcony, and a reconfiguration of the internal layout.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-14'
-- council_reference: DA/347/2020/A
-  address: 19 Harley Crescent, EASTWOOD NSW 2122
-  description: Section 4.55(2) modification of DA/347/2020 for the construction of
-    an attached secondary dwelling. The modification includes the removal of 1 window
-    from, and the addition of 2 new windows to, the first floor of the existing main
-    dwelling.
+  date_received: '2021-09-22'
+- council_reference: DA/656/2019/A
+  address: 11 Kent Street, EPPING NSW 2121
+  description: Section 4.55(1A) modification of DA/656/2019 for alterations and first
+    floor addition to the rear of the existing dwelling and construction of a detached
+    garage and carport with associated driveway to Chelmsford Avenue. The modifications
+    include alterations to the ground floor laundry, toilet, garage door and attic
+    bathroom.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-18'
-- council_reference: DA/35/2021
-  address: 100 Junction Road, WINSTON HILLS NSW 2153
-  description: Alterations to the existing dwelling.
+  date_received: '2021-09-15'
+- council_reference: DA/711/2020/A
+  address: 74 Naomi Street South, WINSTON HILLS NSW 2153
+  description: Section 4.55(2) Modification to the approved DA/711/2020. Proposed
+    modification to approved Dual Occupancy development with incorporation of a personal
+    lift and changes to the internal kitchen and bedroom layouts and external front
+    landscaping area.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-14'
-- council_reference: DA/36/2021
-  address: 225 Windsor Road, NORTHMEAD NSW 2152
-  description: Extension of hours for existing McDonald's premises to 24 hours, 7
-    days a week.
+  date_received: '2021-08-27'
+- council_reference: DA/719/2020/A
+  address: 34 MacArthur Street, PARRAMATTA NSW 2150
+  description: Section 4.55(1A) Modification of the approved DA/719/2020 to Demolition
+    and construction of a 4 storey residential flat building – Deferred Commencement.
+    Modification to Schedule 1 Condition 1 of Stormwater System to be discharged via
+    MacArthur Street
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-14'
-- council_reference: DA/363/2018/A
-  address: 1 Hainsworth Street, WESTMEAD NSW 2145
-  description: |-
-    Section 4.55(1A) modification of DA/363/2018 for subdivision of Cumberland Hospital site into Two (2) Torrens title lots. The subject site is listed on the State Heritage Register. The application is Integrated development as approval is sought under the Heritage Act 1977.
-    The modification includes minor changes to the line of subdivision to suit on-site landscaping.
+  date_received: '2021-09-16'
+- council_reference: DA/751/2019/B
+  address: 8 Grand Avenue, ROSEHILL NSW 2142
+  description: Section 4.55(1A) modification to approved 3 storey high technology
+    industry building and concept approval for a Stage 2 building, specifically revised
+    building envelope/design, internal layout, equipment, materials and landscaping.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-15'
-- council_reference: DA/37/2021
-  address: 26 York Street, EPPING NSW 2121
-  description: Demolition, lot consolidation of 26 & 26A York Street and Torrens Title
-    subdivision to create four lots.
+  date_received: '2021-09-14'
+- council_reference: DA/752/2019/A
+  address: 42 Gladys Street, RYDALMERE NSW 2116
+  description: Section 4.55(2) Modification of the approved DA/752/2019 (Partial demolition
+    and alterations and additions to the existing dwelling) to reconfigure lower ground
+    floor and ground floor including the staircase.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-15'
-- council_reference: DA/38/2021
-  address: 18 Fennell Street, PARRAMATTA NSW 2150
-  description: Alterations and additions to convert an existing heritage listed building
-    to establish a boarding house with a total of 9 rooms and 1 x onsite car space.
+  date_received: '2021-09-09'
+- council_reference: DA/777/2020/A
+  address: 233 Marsden Road, CARLINGFORD NSW 2118
+  description: Section 4.55(1) - Modification to the approved DAT/23/2020 for the
+    removal of Camphor laurels, cypress, camellia, pittosporum and Celtis from the
+    cemetery area. Modifications include the removal of Condition 5.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-15'
-- council_reference: DA/39/2021
-  address: 178 Murray Farm Road, BEECROFT NSW 2119
+  date_received: '2021-09-22'
+- council_reference: DA/789/2016/B
+  address: 16 Charles Street, CARLINGFORD NSW 2118
+  description: Section 4.55(1A) Modification to DA/789/2016 for the demolition, tree
+    removal and construction of a multi dwelling housing development comprising three
+    (3) dwellings. Modifications include external  and internal changes.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-17'
+- council_reference: DA/789/2021
+  address: 180 George Street, PARRAMATTA NSW 2150
+  description: Part change of use from serviced apartments to residential units on
+    Levels 13 - 30 of the southern tower.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-08-26'
+- council_reference: DA/790/2021
+  address: 34 Marsden Road, ERMINGTON NSW 2115
+  description: Demolition of the existing dwelling and associated structures, tree
+    removal, and construction of an attached two storey dual occupancy with basement
+    and Torrens Title subdivision.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-08-26'
+- council_reference: DA/792/2021
+  address: 30 Gollan Avenue, OATLANDS NSW 2117
+  description: Demolition of existing structures and construction of a part 1 and
+    part 2 storey dwelling with basement, pool, cabana, and associated landscaping
+    and site works.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-08-26'
+- council_reference: DA/796/2021
+  address: 8 Voltaire Road, WINSTON HILLS NSW 2153
+  description: Alterations and additions to an existing dwelling including first floor
+    addition, ground floor external alterations, pergola and decking and associated
+    site works.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-08-27'
+- council_reference: DA/798/2021
+  address: 12-22 Langston Place, EPPING NSW 2121
+  description: Use of retail tenancies, outdoor dining, awnings, planters, business
+    identification signage, and wayfinding signage. The uses may subsequently be licenced
+    under the Liquor Act 2007.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-08-31'
+- council_reference: DA/799/2021
+  address: 513 Wentworth Avenue, TOONGABBIE NSW 2146
+  description: To formalise the use of the existing garage as a secondary dwelling.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-08-31'
+- council_reference: DA/800/2021
+  address: 256 Kissing Point Road, DUNDAS VALLEY NSW 2117
+  description: Demolition of existing carwash facility, construction of a new carwash
+    facility. No proposed works to existing service station.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-08-31'
+- council_reference: DA/801/2021
+  address: 95 Marsden Street, PARRAMATTA NSW 2150
+  description: Demolition, tree removal, and construction of a 2 storey Police Station
+    building, including expansion of the existing basement carpark, relocation of
+    the vehicular access to Phillip Street and provision of signage. The application
+    will be determined by the Sydney Central City Planning Panel.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-01'
+- council_reference: DA/802/2021
+  address: 197 Church Street, PARRAMATTA NSW 2150
+  description: Demolition of the former Murray Brothers department store (excluding
+    Church Street and Macquarie Street heritage facades); temporary removal of a portion
+    of the heritage façade on Macquarie Street; demolition of building at 89 Marsden
+    Street and demolition of building at 207 Church Street.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-01'
+- council_reference: DA/803/2021
+  address: 4-10 Fisher Street, SILVERWATER NSW 2128
+  description: Demolition of the existing concrete batching plant and ancillary building
+    on site.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-01'
+- council_reference: DA/804/2021
+  address: 37 Bingara Road, BEECROFT NSW 2119
+  description: Demolition of existing structures and construction of a two level dwelling
+    above basement with secondary dwelling, pool and front fence.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-02'
+- council_reference: DA/806/2021
+  address: 10 Second Avenue, TOONGABBIE NSW 2146
+  description: Demolition of existing single storey dwelling and construction of a
+    two storey dual occupancy with Torrens Title subdivision.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-02'
+- council_reference: DA/807/2021
+  address: 40 Chudleigh Street, RYDALMERE NSW 2116
+  description: Demolition, tree removal and construction of a two storey attached
+    dual occupancy development with Torrens title subdivision.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-02'
+- council_reference: DA/808/2021
+  address: 17 Burlington Street, NORTHMEAD NSW 2152
+  description: Construction of two storey dwelling.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-03'
+- council_reference: DA/809/2021
+  address: 12 Reynolds Street, TOONGABBIE NSW 2146
+  description: 'Staged development consisting of: Stage 1: Demolition, tree removal
+    and Torrens Title subdivision into 2 lots; and Stage 2: Construction of an attached
+    dual occupancy with Torrens Title subdivision on each lot.'
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-03'
+- council_reference: DA/810/2021
+  address: 4 Tyson Place, NORTH ROCKS NSW 2151
+  description: Construction of a new deck and awning roof and landscaping.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-03'
+- council_reference: DA/811/2021
+  address: 48 Speers Road, NORTH ROCKS NSW 2151
+  description: Demolition of existing structures and construction of a dwelling house
+    with basement and front fence.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-03'
+- council_reference: DA/812/2021
+  address: 43 Marion Street, PARRAMATTA NSW 2150
+  description: Concept development application for 21-27 storey mixed-use building
+    incorporating retail, commercial, boarding house and shop-top housing uses. The
+    concept development application seeks approval for building location, footprints
+    and envelope; pedestrian links; pedestrian/vehicular entries; open space and landscaping.
+    Future design competition and detailed development applications would subsequently
+    be required for any works. The boarding house component and 50% of the shop-top
+    housing floor space would be affordable rental housing pursuant to State Environmental
+    Planning Policy (Affordable Rental Housing) 2009. The application is to be determined
+    by the Sydney Central City Planning Panel.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-06'
+- council_reference: DA/814/2021
+  address: 34 Kendall Street, ERMINGTON NSW 2115
+  description: Demolition of the existing shed, tree removal, and construction of
+    a secondary dwelling with garage.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-06'
+- council_reference: DA/815/2021
+  address: 135 Kirby Street, RYDALMERE NSW 2116
+  description: Demolition of the existing dwelling and construction of an attached
+    double storey dual occupancy with Torrens Title subdivision.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-06'
+- council_reference: DA/816/2021
+  address: 12-22 Langston Place, EPPING NSW 2121
+  description: First use and internal fit out of proposed 24/7 gym.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-06'
+- council_reference: DA/817/2021
+  address: 60 Rawson Street, EPPING NSW 2121
+  description: Demolition and construction of a cafe with associated outdoor dining
+    and car parking.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-06'
+- council_reference: DA/819/2021
+  address: 20 Mahony Road, CONSTITUTION HILL NSW 2145
+  description: Demolition, tree removal and construction of an attached dual occupancy
+    with Torrens Title subdivision.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-08'
+- council_reference: DA/820/2021
+  address: 24 Page Street, WENTWORTHVILLE NSW 2145
+  description: Demolition and construction of a two storey with basement detached
+    dual occupancy with one attached secondary dwelling and Torrens title subdivision.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-08'
+- council_reference: DA/821/2021
+  address: 20 Windermere Avenue, NORTHMEAD NSW 2152
+  description: Alterations and additions to a single storey dwelling to include an
+    upper storey. Convert an out-building into a secondary dwelling, add a carport
+    and removal of one (1) Tree.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-08'
+- council_reference: DA/822/2021
+  address: 40 Brodie Street, RYDALMERE NSW 2116
+  description: Use of Unit 8A as a health services facility.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-08'
+- council_reference: DA/823/2021
+  address: 65 Anderson Avenue, DUNDAS NSW 2117
+  description: Construction of a double storey dwelling and a detached secondary dwelling
+    to the rear.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-09'
+- council_reference: DA/825/2021
+  address: 29 Dryden Avenue, CARLINGFORD NSW 2118
+  description: Demolition of existing dwelling and all structures, tree removal, construction
+    of new dwelling, secondary dwelling and retaining wall.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-09'
+- council_reference: DA/826/2021
+  address: 10 Rope Street, DUNDAS VALLEY NSW 2117
+  description: Demolition of the existing dwelling house, tree removal and construction
+    of a new dwelling house with basement car parking, swimming pool and landscaping.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-09'
+- council_reference: DA/827/2021
+  address: 18 Morshead Avenue, CARLINGFORD NSW 2118
+  description: Tree removal and construction of a two storey dwelling.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-09'
+- council_reference: DA/828/2021
+  address: Lot 14 DP 1255419 Civic Place, PARRAMATTA NSW 2150
+  description: Adaptive reuse of Parramatta Town Hall local heritage item as community
+    facility, food and drink premises (including outdoor dining) and function centre
+    including internal alterations and additions. The use is to be licenced under
+    the Liquor Act 2007. The application is to be determined by the Sydney Central
+    City Planning Panel.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-09'
+- council_reference: DA/829/2018/A
+  address: 14 Crowgey Street, RYDALMERE NSW 2116
+  description: Section 4.55(2) modification of DA/829/2018 for demolition works, removal
+    of twelve (12) trees and construction of a part two-storey and part three-storey
+    dwelling house. The modifications include changes to the sizes and alignment of
+    windows, a change of external construction material from brick to fibre cement
+    sheeting, and the addition of a bathroom.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-02'
+- council_reference: DA/830/2021
+  address: 19 Epping Avenue, EASTWOOD NSW 2122
+  description: Demolition of existing dwelling, tree removal and construction of a
+    two storey dwelling and detached secondary dwelling.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-10'
+- council_reference: DA/831/2021
+  address: 24 Albert Street, NORTH PARRAMATTA NSW 2151
+  description: Alterations and additions to a heritage dwelling. The dwelling is referred
+    to as heritage item I324. Alterations include the minor demolition of some hardstand
+    at rear and roof over externally accessed WC, minor internal changes at rear of
+    existing dwelling and construction of a swimming pool.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-10'
+- council_reference: DA/832/2021
+  address: 29 Hill Street, WENTWORTHVILLE NSW 2145
+  description: Demolition of the existing dwelling and associated structures, and
+    construction of a two storey attached dual occupancy with Torrens Title subdivision.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-10'
+- council_reference: DA/833/2021
+  address: 7 Stock Place, WINSTON HILLS NSW 2153
+  description: Demolition, tree removal, retention of swimming pool and construction
+    of an attached dual occupancy development with Torrens Title subdivision.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-10'
+- council_reference: DA/834/2021
+  address: 1 Fyall Street, ERMINGTON NSW 2115
+  description: Construction of a dual occupancy and Torrens Title subdivision.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-10'
+- council_reference: DA/835/2021
+  address: 25 Norwood Avenue, BEECROFT NSW 2119
   description: Alterations and additions to the existing dwelling.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-18'
-- council_reference: DA/4/2021
-  address: 186 Kissing Point Road, DUNDAS NSW 2117
-  description: Proposed exhibition home, signage, car parking area and associated
-    works.
+  date_received: '2021-09-11'
+- council_reference: DA/836/2021
+  address: 592 Victoria Road, ERMINGTON NSW 2115
+  description: Demolition, tree removal and construction of a single storey dwelling
+    with rooms within the roof.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-07'
-- council_reference: DA/40/2021
-  address: 5 Third Avenue, EPPING NSW 2121
+  date_received: '2021-09-12'
+- council_reference: DA/837/2021
+  address: 60 Phillip Street, PARRAMATTA NSW 2150
+  description: Fitout and use of the ground floor tenancy and associated mezzanine
+    as a Medical Centre.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-13'
+- council_reference: DA/841/2021
+  address: ", NSW"
+  description: Test
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-15'
+- council_reference: DA/843/2021
+  address: 25-31 Woodstock Road, CARLINGFORD NSW 2118
+  description: Demolition of the existing shopfront, construction of a new shopfront,
+    and fitout of part of the premises for use as a coffee bar (Shop 31).
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-15'
+- council_reference: DA/844/2021
+  address: 170 Windsor Road, WINSTON HILLS NSW 2153
+  description: Demolition of existing structures and construction of an attached two
+    storey dual occupancy with a secondary dwellings on each lot.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-15'
+- council_reference: DA/846/2021
+  address: 827 Pennant Hills Road, CARLINGFORD NSW 2118
+  description: To include the service of liquor within the existing Vietnamese Noodle
+    shop from 11am to 11pm, 7 days a week.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-15'
+- council_reference: DA/849/2021
+  address: 11 Bowden Street, NORTH PARRAMATTA NSW 2151
+  description: Proposed Shade Sail at the front of the garage.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-16'
+- council_reference: DA/850/2021
+  address: 81 Derby Street, SILVERWATER NSW 2128
+  description: Replace existing cladding with like for like, which meets current fire
+    safety standards.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-16'
+- council_reference: DA/851/2021
+  address: 53 Keeler Street, CARLINGFORD NSW 2118
+  description: Demolition of the existing dwelling and associated structures, tree
+    removal and construction of an attached dual occupancy with Torrens Title subdivision.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-16'
+- council_reference: DA/854/2021
+  address: 52 Speers Road, NORTH ROCKS NSW 2151
+  description: Alterations and additions to the existing dwelling including, internal
+    reconfiguration, addition of a first floor, construction of a swimming pool and
+    associated landscaping works.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-16'
+- council_reference: DA/855/2021
+  address: 8 Wanjina Place, NORTH ROCKS NSW 2151
+  description: Construction of a Two Storey Dwelling
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-16'
+- council_reference: DA/856/2021
+  address: 23 Murray Street, NORTHMEAD NSW 2152
+  description: Demolition, tree removal and construction of an attached dual occupancy
+    to be used for the National Disability Insurance Scheme (NDIS).
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-16'
+- council_reference: DA/858/2021
+  address: 23 Hayes Avenue, NORTHMEAD NSW 2152
   description: Demolition of existing structures, tree removal and construction of
-    an attached dual occupancy.
+    a two-storey detached dual occupancy with Torrens Title subdivision.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-15'
-- council_reference: DA/42/2021
-  address: 55 Thomas Street, PARRAMATTA NSW 2150
-  description: Demolition of existing structures, removal of five (5) trees, lot consolidation
-    and construction of a part 4 and part 5 storey residential flat building comprising
-    of nineteen (19) units with rooftop terrace, basement level parking for twenty-two
-    (22) vehicles and associated landscaping works.
+  date_received: '2021-09-17'
+- council_reference: DA/859/2021
+  address: 48 Raimonde Road, CARLINGFORD NSW 2118
+  description: Demolition of existing structures, tree removal, and construction of
+    an attached dual occupancy including Torrens Title subdivision.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-19'
-- council_reference: DA/43/2021
-  address: 126 Church Street, PARRAMATTA NSW 2150
-  description: Change of use to a business premises for a 92 student vocational college
-    and associated fitout.
+  date_received: '2021-09-18'
+- council_reference: DA/860/2021
+  address: 44 Wattle Street, RYDALMERE NSW 2116
+  description: Demolition, tree removal and construction of a three storey boarding
+    house comprising 46 rooms above basement car parking for 24 car spaces and a front
+    fence.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-15'
-- council_reference: DA/44/2021
-  address: 292 Church Street, PARRAMATTA NSW 2150
-  description: Fitout and use of the existing  building as a gym with associated signage.
-    The site is identified as a local heritage item (I672) pursuant to Clause 5.10
-    of Parramatta Local Environmental Plan 2011.
+  date_received: '2021-09-19'
+- council_reference: DA/865/2021
+  address: 43 Hassall Street, PARRAMATTA NSW 2150
+  description: Construction of a temporary sales office and display suite associated
+    with the development at 114-118 Harris Street, Parramatta.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-19'
-- council_reference: DA/45/2021
-  address: 31 Chester Street, EPPING NSW 2121
-  description: Demolition of existing structures and construction of a new two storey
+  date_received: '2021-09-20'
+- council_reference: DA/868/2021
+  address: 8 Metcalf Avenue, CARLINGFORD NSW 2118
+  description: Demolition of existing single dwelling and construction of new dual
+    occupancy.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-21'
+- council_reference: DA/869/2021
+  address: 2 Thorne Avenue, PENDLE HILL NSW 2145
+  description: Demolition of the existing dwelling and construction of a new two storey
     dwelling.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-19'
-- council_reference: DA/450/2020/A
-  address: 12 Reuben Street, WINSTON HILLS NSW 2153
-  description: Section 4.55(1) modification of DA/450/2020 for a garage and first
-    floor addition and internal alterations to an existing residential dwelling.  The
-    modification is for obtaining engineering conditions in order to receive a Construction
-    Certificate.
+  date_received: '2021-09-21'
+- council_reference: DA/870/2021
+  address: Haines Avenue, CARLINGFORD NSW 2118
+  description: Alterations to an existing Scout Hall with associated works for drainage
+    and car parking
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-11'
-- council_reference: DA/46/2021
-  address: 8 Asquith Street, SILVERWATER NSW 2128
-  description: Demolition of existing structures, tree removal and the construction
-    of a multi-dwelling housing development consisting of 13 dwellings with basement
-    parking for 19 cars.
+  date_received: '2021-09-20'
+- council_reference: DA/872/2021
+  address: 16 George Street, PARRAMATTA NSW 2150
+  description: Replacement of the existing roof structure. The site is identified
+    as local heritage item I700 pursuant to Schedule 5 of the Parramatta Local Environmental
+    Plan 2011.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-20'
-- council_reference: DA/47/2018/I
-  address: 10 Darcy Street, PARRAMATTA NSW 2150
-  description: |-
-    Section 4.55(1A) Modification to the appoved commercial towers seeking revised locations of the upper ground floor to podium level 1 stairs; increase the extent of retail tenancy 6.01by 22sq.m; deletion of the two north western revolving doors on the lower ground floor and
-    the deletion of condition 170.
+  date_received: '2021-09-22'
+- council_reference: DA/873/2021
+  address: 237 Marsden Road, CARLINGFORD NSW 2118
+  description: Demolition, tree removal and construction of a 160 bed Residential
+    Care Facility pursuant to the provisions of State Environmental Planning Policy
+    (Housing for Seniors or People with a Disability) 2004. The proposal is Integrated
+    Development pursuant to the Roads Act 1993. The application will be determined
+    by the Sydney Central City Planning Panel.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-12'
-- council_reference: DA/47/2021
-  address: 3 Melrose Street, EPPING NSW 2121
-  description: Demolition of the existing dwelling and Torrens Title Subdivision of
-    1 lot into 2 lots.
+  date_received: '2021-09-20'
+- council_reference: DA/874/2021
+  address: 2 Fletcher Street, NORTHMEAD NSW 2152
+  description: Demolition and construction of a detached dual occupancy development
+    and front fence.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-20'
-- council_reference: DA/48/2021
-  address: 13 South Street, RYDALMERE NSW 2116
-  description: Installation of external signage and exhaust stack and a change of
-    operational hours.
+  date_received: '2021-09-22'
+- council_reference: DA/875/2021
+  address: 6 Lewis Way, NEWINGTON NSW 2127
+  description: Ground floor alterations and extension of the existing 2 storey dwelling
+    to the rear.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-21'
-- council_reference: DA/480/2018/L
-  address: 180 George Street, PARRAMATTA NSW 2150
-  description: Section 4.55(1A) modification to the approved mixed use towers seeking
-    various changes to the internal room alignment within the podium and changes to
-    the unit mix on the penthouse level of the southern tower.
+  date_received: '2021-09-23'
+- council_reference: DA/876/2021
+  address: 7 Berrigan Street, WINSTON HILLS NSW 2153
+  description: Construction of a secondary dwelling.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-11'
-- council_reference: DA/5/2021
-  address: 128 Marsden Street, PARRAMATTA NSW 2150
-  description: Alterations and additions to existing commercial building including
-    extension of the ground floor, alterations to levels 1, 2 and 3, provision of
-    new awnings, facade changes and signage, and reduction in total number of car
-    parking spaces on the site.
+  date_received: '2021-09-22'
+- council_reference: DA/878/2021
+  address: 378-380 Church Street, PARRAMATTA NSW 2150
+  description: Demolition of the existing building and construction of an 8 storey
+    mixed used building consisting of a boarding house development  with ground floor
+    commercial/retail space over 1 level of  basement parking.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-07'
-- council_reference: DA/6/2021
-  address: 33 Plymouth Avenue, NORTH ROCKS NSW 2151
-  description: Proposed dwelling house and associated works.
+  date_received: '2021-09-22'
+- council_reference: DA/879/2021
+  address: 34 Hammers Road, NORTHMEAD NSW 2152
+  description: Demolition of existing structures and construction of a two storey
+    dual occupancy development with associated Torrens Title subdivision.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-07'
-- council_reference: DA/669/2017/A
-  address: 1 Dunmore Avenue, CARLINGFORD NSW 2118
-  description: |-
-    Section 4.55(1A) modification of DA/669/2017 for demolition works, removal of seven (7) trees and construction of a multi-dwelling housing development comprising four (4) x 2-storey townhouses with two new driveways.
-    The modification includes amendments to conditions 92 & 93 to remove thereference to Strata subdivision.
+  date_received: '2021-09-22'
+- council_reference: DA/880/2021
+  address: 51 Railway Street, GRANVILLE NSW 2142
+  description: Demolition and construction of a 5 storey residential flat building
+    containing 6 units, ground floor and basement parking.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-11'
-- council_reference: DA/7/2021
-  address: 10 Bethel Street, TOONGABBIE NSW 2146
-  description: Demolition of existing shed and proposed construction of a garage and
-    gazebo to the rear of the existing dwelling.
+  date_received: '2021-09-22'
+- council_reference: DA/882/2021
+  address: 46 Hammers Road, NORTHMEAD NSW 2152
+  description: Alterations and additions to the existing single storey dwelling to
+    include an upper floor addition, ground floor alterations and associated works.
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-08'
-- council_reference: DA/711/2016/A
-  address: 10 Gloucester Road, EPPING NSW 2121
-  description: Section 4.55(1a) modification for the approved DA/711/2016 for the
-    alterations and additions to a dwelling house. Modifications include an increase
-    to the side setback, changes to windows, changes to the carport, minor internal
-    alterations and omission of rear outdoor steps.
+  date_received: '2021-09-23'
+- council_reference: TA/481/2021
+  address: 32 Iona Avenue, NORTH ROCKS NSW 2151
+  description: Application on Hold E-mail Sent - Removal of One (1) Tree
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-07'
-- council_reference: DA/8/2021
-  address: 2 Central Avenue, EASTWOOD NSW 2122
-  description: Demolition, tree removal, construction of a secondary dwelling, outbuilding,
-    alterations and additions to the existing dwelling within a Heritage Conservation
-    Area.
+  date_received: '2021-08-26'
+- council_reference: TA/482/2021
+  address: 15 Alice Street, HARRIS PARK NSW 2150
+  description: Application on Hold E-mail Sent - Removal of One (1) Tree
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-07'
-- council_reference: DA/88/2020/A
-  address: 23 Asquith Street, SILVERWATER NSW 2128
-  description: |-
-    Section 4.55(1A) modification of DA/88/2020 for the demolition of existing structures, construction of a two (2) storey dual occupancy development with basement parking and associated Strata subdivision into 2 allotments.
-    The modification includes changes to condition 37 to allow the stormwater to drain to the curb instead of installing a 375mm drainage pipe to drain to the nearest pit.
+  date_received: '2021-08-27'
+- council_reference: TA/483/2021
+  address: 23 Delaware Road, ERMINGTON NSW 2115
+  description: Application Withdrawn
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-19'
-- council_reference: DA/9/2021
-  address: 71 Edison Parade, WINSTON HILLS NSW 2153
-  description: Excavation of driveway and construction of a double garage with associated
-    landscaping.
+  date_received: '2021-08-27'
+- council_reference: TA/484/2021
+  address: 112A Spurway Street, ERMINGTON NSW 2115
+  description: Removal of One (1) Chamaecyparis spp (Pine)
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
-  date_received: '2021-01-08'
+  date_received: '2021-08-29'
+- council_reference: TA/485/2021
+  address: 573 Victoria Road, ERMINGTON NSW 2115
+  description: Application on Hold E-mail Sent - Removal of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-08-30'
+- council_reference: TA/486/2021
+  address: 108 Model Farms Road, WINSTON HILLS NSW 2153
+  description: Application on Hold E-mail Sent - Removal of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-08-31'
+- council_reference: TA/487/2021
+  address: 33 Jenkins Road, CARLINGFORD NSW 2118
+  description: Owners Consent Required E-mail Sent - Pruning of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-08-31'
+- council_reference: TA/488/2021
+  address: 8 Sophia Crescent, NORTH ROCKS NSW 2151
+  description: Removal of one (1) Eucalyptus crebra and one (1) Callistemon viminalis
+    (Bottlebrush) tree located in the front of the property.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-01'
+- council_reference: TA/489/2021
+  address: 73 Alfred Street, ROSEHILL NSW 2142
+  description: Removal of One (1) Cinnamomum camphora (Camphor laurel)
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-01'
+- council_reference: TA/490/2021
+  address: 120 Darcy Road, WENTWORTHVILLE NSW 2145
+  description: Removal of one (1) x Cupressocyparis leylandii (Leyland Cypress) tree
+    and one (1) Syzygium paniculatum (Lilly Pilly) tree located in the front of the
+    prpoerty.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-02'
+- council_reference: TA/491/2021
+  address: 14 Good Street, GRANVILLE NSW 2142
+  description: Removal of One (1) Jacaranda mimisifolia (Jacaranda) ; One (1) Casuarina
+    cunninghamiana (She-oak) ; One (1) Harpephyllum caffrum (Kaffir Plum).
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-03'
+- council_reference: TA/492/2021
+  address: 30 Francis Street, EPPING NSW 2121
+  description: Application Withdrawn trees on nature strip and to be assessed under
+    SR 483506
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-03'
+- council_reference: TA/493/2021
+  address: 4 Third Avenue, EPPING NSW 2121
+  description: Application on Hold E-mail Sent - Removal of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-03'
+- council_reference: TA/494/2021
+  address: 235 Midson Road, EPPING NSW 2121
+  description: Application on Hold E-mail Sent - Removal of Three (3) Trees
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-04'
+- council_reference: TA/495/2021
+  address: 5 Disraeli Road, WINSTON HILLS NSW 2153
+  description: Application on Hold E-mail Sent - Removal of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-06'
+- council_reference: TA/496/2021
+  address: 56 Huxley Drive, WINSTON HILLS NSW 2153
+  description: Application on Hold E-mail Sent - Removal of Two (2) Trees
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-06'
+- council_reference: TA/497/2021
+  address: 9 Hackett Place, NORTH ROCKS NSW 2151
+  description: Application on Hold E-mail Sent - Removal of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-07'
+- council_reference: TA/498/2021
+  address: 238 Kissing Point Road, DUNDAS VALLEY NSW 2117
+  description: Application on Hold E-mail Semt - Removal of Three (3) Trees
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-07'
+- council_reference: TA/499/2021
+  address: 12 Parkland Avenue, RYDALMERE NSW 2116
+  description: CDC E-mail Sent - Removal of Two (2) Trees
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-07'
+- council_reference: TA/500/2021
+  address: 51 Woodbury Street, NORTH ROCKS NSW 2151
+  description: Removal of one (1) Chamaecyparis obtusa 'Crippsii' (Hinoki Cypress)
+    tree located in the front of the property.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-08'
+- council_reference: TA/501/2021
+  address: 16 Fisher Street, SILVERWATER NSW 2128
+  description: Application on Hold E-mail Sent - Removal of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-08'
+- council_reference: TA/502/2021
+  address: 12 Balaka Drive, CARLINGFORD NSW 2118
+  description: Removal of One (1) x Pittosporum undulatum in the rear yard
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-09'
+- council_reference: TA/503/2021
+  address: 105 Eastwood Avenue, EPPING NSW 2121
+  description: Application on Hold E-mail Sent - Pruning of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-09'
+- council_reference: TA/504/2021
+  address: 57-59 Weston Street, HARRIS PARK NSW 2150
+  description: Application on Hold E-mail Sent - Removal of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-10'
+- council_reference: TA/505/2021
+  address: 153B Caroline Chisholm Drive, WINSTON HILLS NSW 2153
+  description: CDC E-mail Sent - Removal of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-13'
+- council_reference: TA/506/2021
+  address: 5 Tilley Street, DUNDAS VALLEY NSW 2117
+  description: CDC E-mail Sent Application on Hold - Removal of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-13'
+- council_reference: TA/507/2021
+  address: 9 Panaview Crescent, NORTH ROCKS NSW 2151
+  description: Removal of one (1) Syncarpia glomulifera (Turpentine) tree located
+    in the front of the property and the pruning of one (1) Pittosporum undulatum
+    (Native Daphne) tree located in the rear of the property.
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-14'
+- council_reference: TA/508/2021
+  address: 250 North Rocks Road, NORTH ROCKS NSW 2151
+  description: Application on Hold E-mail Sent - Removal of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-14'
+- council_reference: TA/509/2021
+  address: 31 Downing Street, EPPING NSW 2121
+  description: Application on Hold E-mail Sent - Removal of Three (3) Trees
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-14'
+- council_reference: TA/510/2021
+  address: 14 Coral Tree Drive, CARLINGFORD NSW 2118
+  description: Application on Hold E-mail Sent - Pruning of One (1) Tree and Removal
+    of Two (2) Trees
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-14'
+- council_reference: TA/511/2021
+  address: 58 Dunlop Street, EPPING NSW 2121
+  description: Application on Hold E-mail Sent - Removal of One (1) Tree and Pruning
+    of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-14'
+- council_reference: TA/513/2021
+  address: 32 Morton Street, PARRAMATTA NSW 2150
+  description: CDC E-mail Sent - Removal of Ten (10) Trees
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-14'
+- council_reference: TA/514/2021
+  address: 41 Delaware Road, ERMINGTON NSW 2115
+  description: Request to Withdraw Current DA/735/2019/A condition to retain tree
+    in question - Sec 4.55 to be lodged
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-15'
+- council_reference: TA/515/2021
+  address: 10 Constitution Court, CARLINGFORD NSW 2118
+  description: Application on Hold E-mail Sent - Removal of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-15'
+- council_reference: TA/516/2021
+  address: 74 Coral Tree Drive, CARLINGFORD NSW 2118
+  description: Application on Hold E-mail Sent - Pruning of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-16'
+- council_reference: TA/517/2021
+  address: 163 Midson Road, EPPING NSW 2121
+  description: Removal of One x Hesperocyparis macrocarpa in the rear yard
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-16'
+- council_reference: TA/518/2021
+  address: 13 Prior Street, WINSTON HILLS NSW 2153
+  description: Owners Consent Required Application on Hold E-mail Sent - Removal of
+    Two (2) Trees
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-16'
+- council_reference: TA/519/2021
+  address: 26 Dallwood Avenue, EPPING NSW 2121
+  description: Pruning of One x Jacaranda in the rear yard
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-16'
+- council_reference: TA/520/2021
+  address: 12-12A Fletcher Street, NORTHMEAD NSW 2152
+  description: Application on Hold E-mail Sent - Removal of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-17'
+- council_reference: TA/521/2021
+  address: 8 Cedar Place, NEWINGTON NSW 2127
+  description: Removal of Two (2) Acmena smithii (Lilly Pilly)
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-17'
+- council_reference: TA/522/2021
+  address: 37 Speers Road, NORTH ROCKS NSW 2151
+  description: Application on Hold E-mail Sent - Pruning of Three (3) Trees
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-17'
+- council_reference: TA/523/2021
+  address: 15 Carter Street, LIDCOMBE NSW 2141
+  description: Application on Hold E-mail Sent to Applicant - Removal of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-20'
+- council_reference: TA/524/2021
+  address: 29 Nowill Street, RYDALMERE NSW 2116
+  description: Tree is exempt within 3 metres of dwelling
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-20'
+- council_reference: TA/525/2021
+  address: 34 Dent Street, EPPING NSW 2121
+  description: Application on Hold E-mail Sent - Removal of Two (2) Trees
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-21'
+- council_reference: TA/526/2021
+  address: 41 Stanley Road, EPPING NSW 2121
+  description: Application on Hold E-mail Sent - Removal of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-21'
+- council_reference: TA/528/2021
+  address: 5 Madonna Street, WINSTON HILLS NSW 2153
+  description: CDC E-mail Sent - Removal of Three (3) Trees
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-21'
+- council_reference: TA/529/2021
+  address: 4 Bronte Place, WINSTON HILLS NSW 2153
+  description: Application on Hold E-mail Sent - Removal of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-21'
+- council_reference: TA/530/2021
+  address: 49A Willoughby Street, EPPING NSW 2121
+  description: Application on Hold E-mail Sent - Removal of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-22'
+- council_reference: TA/531/2021
+  address: 1 Jessie Street, WESTMEAD NSW 2145
+  description: Application on Hold E-mail Sent - Removal of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-22'
+- council_reference: TA/532/2021
+  address: 1 Wattle Place, CARLINGFORD NSW 2118
+  description: CDC E-mail Sent Application on Hold- Removal of One (1) Tree
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-22'
+- council_reference: TA/535/2021
+  address: 3 Karril Avenue, BEECROFT NSW 2119
+  description: 1 x Tree Permit Application
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-24'
+- council_reference: TA/539/2021
+  address: 16 Waugh Avenue, NORTH PARRAMATTA NSW 2151
+  description: 1 x Tree Permit Application
+  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2021-09-24'

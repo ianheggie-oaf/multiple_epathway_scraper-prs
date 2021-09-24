@@ -14,46 +14,52 @@ require "scraperwiki"
 module EpathwayScraper
   # list: one of :all, :advertising, :last_30_days, :all_this_year
   # state: NSW, VIC or NT, etc...
-  def self.scrape(url:, list:, state:, max_pages: nil, force_detail: false,
+  def self.scrape(url:, lists:, state:, max_pages: nil, force_detail: false,
                   disable_ssl_certificate_check: false,
                   australian_proxy: false)
     base_url = url + "/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP"
-    agent = Mechanize.new
-    agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
 
-    if australian_proxy
-      # On morph.io set the environment variable MORPH_AUSTRALIAN_PROXY to
-      # http://morph:password@au.proxy.oaf.org.au:8888 replacing password with
-      # the real password.
-      agent.agent.set_proxy(ENV["MORPH_AUSTRALIAN_PROXY"])
-    end
+    lists.each do |list|
+      agent = Mechanize.new
+      agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
 
-    # Navigate to the correct list
-    page = agent.get(base_url)
-    page = Page::ListSelect.follow_javascript_redirect(page, agent)
+      if australian_proxy
+        # On morph.io set the environment variable MORPH_AUSTRALIAN_PROXY to
+        # http://morph:password@au.proxy.oaf.org.au:8888 replacing password with
+        # the real password.
+        agent.agent.set_proxy(ENV["MORPH_AUSTRALIAN_PROXY"])
+      end
+      # Navigate to the correct list
+      page = agent.get(base_url)
+      page = Page::ListSelect.follow_javascript_redirect(page, agent)
 
-    if list == :all
-      Page::ListSelect.select_all(page) if Page::ListSelect.on_page?(page)
-    elsif list == :advertising
-      Page::ListSelect.select_advertising(page) if Page::ListSelect.on_page?(page)
-    elsif list == :last_30_days
-      page = Page::ListSelect.select_all(page) if Page::ListSelect.on_page?(page)
-      Page::Search.pick(page, :last_30_days, agent)
-    # Get all applications lodged this entire year
-    elsif list == :all_this_year
-      page = Page::ListSelect.select_all(page) if Page::ListSelect.on_page?(page)
-      page = Page::Search.click_date_search_tab(page, agent)
-      Page::DateSearch.pick_all_year(page, DateTime.now.year)
-    else
-      raise "Unexpected list: #{list}"
-    end
+      if list == :all
+        Page::ListSelect.select_all(page) if Page::ListSelect.on_page?(page)
+      elsif list == :advertising
+        Page::ListSelect.select_advertising(page) if Page::ListSelect.on_page?(page)
+      elsif list == :last_30_days
+        page = Page::ListSelect.select_all(page) if Page::ListSelect.on_page?(page)
+        Page::Search.pick(page, :last_30_days, agent)
+      elsif list == :other_applications
+        page = Page::ListSelect.select_other(page)
+        Page::Search.pick(page, :last_30_days, agent)
 
-    # Notice how we're skipping the clicking of search
-    # even though that's what the user interface is showing next
-    Page::Index.scrape_all_index_pages(
-      max_pages, base_url, agent, force_detail, state
-    ) do |record|
-      yield record
+      # Get all applications lodged this entire year
+      elsif list == :all_this_year
+        page = Page::ListSelect.select_all(page) if Page::ListSelect.on_page?(page)
+        page = Page::Search.click_date_search_tab(page, agent)
+        Page::DateSearch.pick_all_year(page, DateTime.now.year)
+      else
+        raise "Unexpected list: #{list}"
+      end
+
+      # Notice how we're skipping the clicking of search
+      # even though that's what the user interface is showing next
+      Page::Index.scrape_all_index_pages(
+        max_pages, base_url, agent, force_detail, state
+      ) do |record|
+        yield record
+      end
     end
   end
 
