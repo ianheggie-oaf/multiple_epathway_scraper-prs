@@ -59,6 +59,10 @@ module EpathwayScraper
         "statutory planning applications register"
       ].freeze
 
+      OTHER_TEXT = [
+        "track all other applications"
+      ].freeze
+
       def self.select(page, text_to_match)
         form = page.forms.first
 
@@ -93,6 +97,10 @@ module EpathwayScraper
 
       def self.select_all(page)
         select(page, ALL_TEXT)
+      end
+
+      def self.select_other(page)
+        select(page, OTHER_TEXT)
       end
 
       # Fake that we're running javascript by picking out the javascript redirect
