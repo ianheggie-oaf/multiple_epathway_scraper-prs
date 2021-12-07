@@ -3,3 +3,7 @@ data.sqlite
 
 # rspec failure tracking
 .rspec_status
+
+#code editors
+.vscode
+.idea
