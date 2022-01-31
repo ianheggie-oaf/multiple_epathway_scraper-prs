@@ -171,6 +171,12 @@ module EpathwayScraper
       state: "VIC",
       lists: [:all],
       max_pages: 20
+    },
+    gosford: {
+      url: "https://eservices.centralcoast.nsw.gov.au/ePathway/Production",
+      state: "NSW",
+      lists: [:all],
+      disable_ssl_certificate_check: true
     }
   }.freeze
 end
