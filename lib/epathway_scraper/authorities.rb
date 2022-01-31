@@ -3,7 +3,7 @@
 module EpathwayScraper
   # The settings to scrape each different authority
   AUTHORITIES = {
-    central_coast_wyong_shire: {
+    central_coast: {
       url: "https://eservices.centralcoast.nsw.gov.au/ePathway/Production",
       state: "NSW",
       lists: [:advertising]
