@@ -57,12 +57,6 @@ module EpathwayScraper
       state: "QLD",
       lists: [:last_30_days]
     },
-    gosford: {
-      url: "https://eservices.centralcoast.nsw.gov.au/ePathway/Production",
-      state: "NSW",
-      lists: [:last_30_days],
-      disable_ssl_certificate_check: true
-    },
     greater_shepparton: {
       url: "https://eservices.greatershepparton.com.au/ePathway/Production",
       state: "VIC",
