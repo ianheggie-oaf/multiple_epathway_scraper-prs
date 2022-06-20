@@ -6,7 +6,9 @@ module EpathwayScraper
     central_coast: {
       url: "https://eservices.centralcoast.nsw.gov.au/ePathway/Production",
       state: "NSW",
-      lists: [:advertising]
+      lists: [:advertising],
+      # Has an incomplete SSL chain
+      disable_ssl_certificate_check: true
     },
     ballarat: {
       url: "https://eservices.ballarat.vic.gov.au/ePathway/Production",
