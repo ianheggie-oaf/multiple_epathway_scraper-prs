@@ -151,7 +151,9 @@ module EpathwayScraper
     south_gippsland: {
       url: "https://eservices.southgippsland.vic.gov.au/ePathway/ePathProd",
       state: "VIC",
-      lists: [:advertising]
+      lists: [:advertising],
+      # Incomplete SSL certificate
+      disable_ssl_certificate_check: true
     },
     the_hills: {
       url: "https://epathway.thehills.nsw.gov.au/ePathway/Production",
