@@ -165,11 +165,6 @@ module EpathwayScraper
       state: "VIC",
       lists: [:last_30_days]
     },
-    wollongong: {
-      url: "http://epathway.wollongong.nsw.gov.au/ePathway/Production",
-      state: "NSW",
-      lists: [:advertising]
-    },
     yarra_ranges: {
       url: "https://epathway.yarraranges.vic.gov.au/ePathway/Production",
       state: "VIC",
