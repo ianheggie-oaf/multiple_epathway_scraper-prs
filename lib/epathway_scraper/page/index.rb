@@ -48,9 +48,10 @@ module EpathwayScraper
           :lodgement_date
         when "current status", "status"
           :status
+        # Knox council uses a non-breaking space as the heading for address. Thanks Knox.
         when "address", "application location", "location", "location address",
              "primary property address", "property address", "site address",
-             "site location", "street address"
+             "site location", "street address", "\u00a0"
           :address
         when "suburb", "location suburb"
           :suburb
