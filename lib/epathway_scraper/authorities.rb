@@ -70,7 +70,9 @@ module EpathwayScraper
     inverell: {
       url: "http://203.49.140.77/ePathway/Production",
       state: "NSW",
-      lists: [:all_this_year]
+      lists: [:all_this_year],
+      # Looks like it's blocking requests from outside Australia
+      australian_proxy: true
     },
     ipswich: {
       url: "https://epathway.ipswich.qld.gov.au/ePathway/Production/",
