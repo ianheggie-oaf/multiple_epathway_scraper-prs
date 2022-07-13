@@ -140,11 +140,6 @@ module EpathwayScraper
       state: "NSW",
       lists: %i[last_30_days other_applications]
     },
-    port_phillip: {
-      url: "https://eservices.portphillip.vic.gov.au/ePathway/Production",
-      state: "VIC",
-      lists: [:last_30_days]
-    },
     rockhampton: {
       url: "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd",
       state: "QLD",
