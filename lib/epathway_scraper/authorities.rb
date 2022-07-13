@@ -3,13 +3,6 @@
 module EpathwayScraper
   # The settings to scrape each different authority
   AUTHORITIES = {
-    central_coast: {
-      url: "https://eservices.centralcoast.nsw.gov.au/ePathway/Production",
-      state: "NSW",
-      lists: [:advertising],
-      # Has an incomplete SSL chain
-      disable_ssl_certificate_check: true
-    },
     ballarat: {
       url: "https://eservices.ballarat.vic.gov.au/ePathway/Production",
       state: "VIC",
@@ -25,6 +18,13 @@ module EpathwayScraper
       url: "https://ebiz.campbelltown.nsw.gov.au/ePathway/Production",
       state: "NSW",
       lists: [:all]
+    },
+    central_coast: {
+      url: "https://eservices.centralcoast.nsw.gov.au/ePathway/Production",
+      state: "NSW",
+      lists: [:advertising],
+      # Has an incomplete SSL chain
+      disable_ssl_certificate_check: true
     },
     darebin: {
       url: "https://eservices.darebin.vic.gov.au/ePathway/Production",
@@ -173,3 +173,4 @@ module EpathwayScraper
     }
   }.freeze
 end
+
