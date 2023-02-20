@@ -112,7 +112,8 @@ module EpathwayScraper
     maroondah: {
       url: "https://eservices.maroondah.vic.gov.au/ePathway/Production",
       state: "VIC",
-      lists: [:advertising]
+      lists: [:advertising],
+      australian_proxy: true
     },
     monash: {
       url: "https://epathway.monash.vic.gov.au/ePathway/ePTHPROD",
@@ -170,4 +171,3 @@ module EpathwayScraper
     }
   }.freeze
 end
-
