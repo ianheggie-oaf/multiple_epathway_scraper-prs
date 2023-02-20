@@ -141,6 +141,11 @@ module EpathwayScraper
       state: "NSW",
       lists: %i[last_30_days other_applications]
     },
+    randwick: {
+      url: "https://onlineservices.randwick.nsw.gov.au/ePathway/Production",
+      state: "NSW",
+      lists: [:advertising]
+    },
     rockhampton: {
       url: "https://eservices.rockhamptonregion.qld.gov.au/ePathway/ePathProd",
       state: "QLD",

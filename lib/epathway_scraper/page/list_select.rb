@@ -19,6 +19,7 @@ module EpathwayScraper
         # Development Applications
         "development applications on public exhibition",
         "development applications in public notification",
+        "das on exhibition",
         # Planning Permit Applications
         "planning permit applications advertised",
         "advertised planning permit applications",
