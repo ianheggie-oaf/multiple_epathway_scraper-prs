@@ -88,7 +88,7 @@ module EpathwayScraper
         address = address.split("\n")[0].strip if address.include?("\n")
 
         # Add the suburb to addresses that don't already include them
-        address += ", #{suburb}" if suburb && !address.include?(suburb)
+        address += ", #{suburb}" if suburb && address != "" && !address.include?(suburb)
         address = address.squeeze(" ")
 
         {
@@ -140,7 +140,7 @@ module EpathwayScraper
           end
 
           # Add state to the end of the address if it isn't already there
-          data[:address] += ", #{state}" unless data[:address].include?(state)
+          data[:address] += ", #{state}" if data[:address] != "" && !data[:address].include?(state)
 
           record = {
             "council_reference" => data[:council_reference],
@@ -157,7 +157,7 @@ module EpathwayScraper
           # the council hasn't got a proper council reference for it yet,
           # there's little point to adding it, in fact it will kind of screw
           # things up. So, better to just ignore it
-          yield(record) if record["council_reference"] != "Not on file"
+          yield(record) if record["council_reference"] != "Not on file" && record["address"] != ""
         end
       end
 

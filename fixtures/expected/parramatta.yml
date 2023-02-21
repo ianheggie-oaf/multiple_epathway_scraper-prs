@@ -17,12 +17,6 @@
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2021-09-17'
-- council_reference: BC/79/2021
-  address: ", NSW"
-  description: Created in error - jt
-  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2021-09-23'
 - council_reference: BC/80/2021
   address: 11 Hampden Street, NORTH ROCKS NSW 2151
   description: Levels of Building
@@ -522,12 +516,6 @@
   info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
   date_scraped: '2019-05-15'
   date_received: '2021-09-13'
-- council_reference: DA/841/2021
-  address: ", NSW"
-  description: Test
-  info_url: https://onlineservices.cityofparramatta.nsw.gov.au/ePathway/Prod/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
-  date_scraped: '2019-05-15'
-  date_received: '2021-09-15'
 - council_reference: DA/843/2021
   address: 25-31 Woodstock Road, CARLINGFORD NSW 2118
   description: Demolition of the existing shopfront, construction of a new shopfront,
