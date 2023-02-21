@@ -9,6 +9,7 @@ module EpathwayScraper
       ADVERTISING_TEXT = [
         # Applications
         "applications on exhibition",
+        "applications on notification list",
         # Planning Applications
         "advertised planning applications",
         "planning application at advertising",

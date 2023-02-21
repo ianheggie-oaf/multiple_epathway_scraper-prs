@@ -163,6 +163,11 @@ module EpathwayScraper
       state: "NSW",
       lists: [:last_30_days]
     },
+    waverley: {
+      url: "https://epwgate.waverley.nsw.gov.au/ePathway/Production",
+      state: "NSW",
+      lists: [:advertising]
+    },
     whitehorse: {
       url: "https://eservices.whitehorse.vic.gov.au/ePathway/Production",
       state: "VIC",
