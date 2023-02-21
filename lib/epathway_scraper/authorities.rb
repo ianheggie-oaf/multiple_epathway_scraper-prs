@@ -41,7 +41,8 @@ module EpathwayScraper
     frankston: {
       url: "https://epathway.frankston.vic.gov.au/ePathway/Production",
       state: "VIC",
-      lists: [:last_30_days]
+      lists: [:last_30_days],
+      australian_proxy: true
     },
     gladstone: {
       url: "https://online.gladstone.qld.gov.au/ePathway/eProd",
