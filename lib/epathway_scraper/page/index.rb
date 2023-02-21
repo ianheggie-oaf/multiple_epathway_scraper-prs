@@ -51,7 +51,7 @@ module EpathwayScraper
         # Knox council uses a non-breaking space as the heading for address. Thanks Knox.
         when "address", "application location", "location", "location address",
              "primary property address", "property address", "site address",
-             "site location", "street address", "\u00a0"
+             "site location", "street address", "\u00a0", "application primary location"
           :address
         when "suburb", "location suburb"
           :suburb
