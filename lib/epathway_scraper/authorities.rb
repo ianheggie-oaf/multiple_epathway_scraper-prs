@@ -22,9 +22,7 @@ module EpathwayScraper
     central_coast: {
       url: "https://eservices.centralcoast.nsw.gov.au/ePathway/Production",
       state: "NSW",
-      lists: [:advertising],
-      # Has an incomplete SSL chain
-      disable_ssl_certificate_check: true
+      lists: [:advertising]
     },
     darebin: {
       url: "https://eservices.darebin.vic.gov.au/ePathway/Production",
@@ -63,10 +61,7 @@ module EpathwayScraper
     greater_shepparton: {
       url: "https://eservices.greatershepparton.com.au/ePathway/Production",
       state: "VIC",
-      lists: [:last_30_days],
-      # Has an incomplete SSL chain: See
-      # https://www.ssllabs.com/ssltest/analyze.html?d=eservices.greatershepparton.com.au&latest
-      disable_ssl_certificate_check: true
+      lists: [:last_30_days]
     },
     inverell: {
       url: "https://epathway.inverell.nsw.gov.au/ePathway/Production",
@@ -78,8 +73,7 @@ module EpathwayScraper
     ipswich: {
       url: "https://epathway.ipswich.qld.gov.au/ePathway/Production/",
       state: "QLD",
-      lists: [:last_30_days],
-      disable_ssl_certificate_check: true
+      lists: [:last_30_days]
     },
     kingston: {
       url: "https://online.kingston.vic.gov.au/ePathway/Production",
@@ -156,9 +150,7 @@ module EpathwayScraper
     south_gippsland: {
       url: "https://eservices.southgippsland.vic.gov.au/ePathway/ePathProd",
       state: "VIC",
-      lists: [:advertising],
-      # Incomplete SSL certificate
-      disable_ssl_certificate_check: true
+      lists: [:advertising]
     },
     the_hills: {
       url: "https://epathway.thehills.nsw.gov.au/ePathway/Production",

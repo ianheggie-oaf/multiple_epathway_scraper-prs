@@ -15,13 +15,14 @@ module EpathwayScraper
   # list: one of :all, :advertising, :last_30_days, :all_this_year
   # state: NSW, VIC or NT, etc...
   def self.scrape(url:, lists:, state:, max_pages: nil, force_detail: false,
-                  disable_ssl_certificate_check: false,
                   australian_proxy: false)
     base_url = url + "/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP"
 
     lists.each do |list|
       agent = Mechanize.new
-      agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
+      # Because enough sites have incomplete SSL certificates and renewing certificates break
+      # existing working ones. It's easier to just disable ssl certificate checking for every site.
+      agent.verify_mode = OpenSSL::SSL::VERIFY_NONE
 
       if australian_proxy
         # On morph.io set the environment variable MORPH_AUSTRALIAN_PROXY to
