@@ -39,6 +39,8 @@ module EpathwayScraper
         "list of development applications",
         "development application - planning act",
         "track lodged development applications (da)",
+        # Specific to Gold Coast
+        "development applications after july 2017",
         # Planning Applications
         "planning applications",
         "planning application enquiry",
