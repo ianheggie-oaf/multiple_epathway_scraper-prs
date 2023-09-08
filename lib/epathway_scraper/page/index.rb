@@ -74,11 +74,14 @@ module EpathwayScraper
         end
       end
 
-      def self.extract_index_data(row)
+      def self.extract_index_data(authority, row)
         normalised = normalise_row_data(row)
 
         date_received = normalised[:date_received] || normalised[:lodgement_date]
-        date_received = Date.strptime(date_received, "%d/%m/%Y").to_s if date_received
+        # HORRIBLE HACK for knox council that seems to be displaying dates in US order. UGH!
+        # This will work until they see their mistake and fix it which will then break this. Oh joy!
+        date_format = authority == :knox ? "%m/%d/%Y" : "%d/%m/%Y"
+        date_received = Date.strptime(date_received, date_format).to_s if date_received
 
         address = normalised[:address]
         suburb = normalised[:suburb]
@@ -105,12 +108,12 @@ module EpathwayScraper
       # We need this for the case of Barossa, SA that doesn't include the
       # suburb in the address on the index page. We don't have a simple and
       # reliable way to automatically detect this
-      def self.scrape_index_page(page, base_url, agent, force_detail, state)
+      def self.scrape_index_page(authority, page, base_url, agent, force_detail, state)
         table = page.at("table.ContentPanel")
         return if table.nil?
 
         Table.extract_table_data_and_urls(table).each do |row|
-          data = extract_index_data(row)
+          data = extract_index_data(authority, row)
 
           # Check if we have all the information we need from the index_data
           # If so then there's no need to scrape the detail page
@@ -162,12 +165,12 @@ module EpathwayScraper
       end
 
       # This scrapes all index pages by doing GETs on each page
-      def self.scrape_all_index_pages(number_pages, base_url, agent, force_detail, state)
+      def self.scrape_all_index_pages(authority, number_pages, base_url, agent, force_detail, state)
         page = agent.get("EnquirySummaryView.aspx?PageNumber=1")
         number_pages ||= extract_total_number_of_pages(page)
         (1..number_pages).each do |no|
           page = agent.get("EnquirySummaryView.aspx?PageNumber=#{no}") if no > 1
-          scrape_index_page(page, base_url, agent, force_detail, state) do |record|
+          scrape_index_page(authority, page, base_url, agent, force_detail, state) do |record|
             yield record
           end
         end

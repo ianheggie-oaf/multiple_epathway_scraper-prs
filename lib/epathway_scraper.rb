@@ -14,7 +14,7 @@ require "scraperwiki"
 module EpathwayScraper
   # list: one of :all, :advertising, :last_30_days, :all_this_year
   # state: NSW, VIC or NT, etc...
-  def self.scrape(url:, lists:, state:, max_pages: nil, force_detail: false,
+  def self.scrape(authority:, url:, lists:, state:, max_pages: nil, force_detail: false,
                   australian_proxy: false)
     base_url = url + "/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP"
 
@@ -57,7 +57,7 @@ module EpathwayScraper
       # Notice how we're skipping the clicking of search
       # even though that's what the user interface is showing next
       Page::Index.scrape_all_index_pages(
-        max_pages, base_url, agent, force_detail, state
+        authority, max_pages, base_url, agent, force_detail, state
       ) do |record|
         yield record
       end
@@ -65,7 +65,8 @@ module EpathwayScraper
   end
 
   def self.scrape_authority(authority)
-    scrape(EpathwayScraper::AUTHORITIES[authority]) do |record|
+    params = EpathwayScraper::AUTHORITIES[authority].merge(authority: authority)
+    scrape(params) do |record|
       # Putting in "ePathway" in the description must be some kind
       # of default for new records. We don't want to include these
       # because they're staggeringly unhelpful to users. Much better
