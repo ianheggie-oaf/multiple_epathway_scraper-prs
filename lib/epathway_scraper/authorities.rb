@@ -78,7 +78,8 @@ module EpathwayScraper
     ipswich: {
       url: "https://epathway.ipswich.qld.gov.au/ePathway/Production/",
       state: "QLD",
-      lists: [:last_30_days]
+      lists: [:last_30_days],
+      disable_ssl_certificate_check: true
     },
     kingston: {
       url: "https://online.kingston.vic.gov.au/ePathway/Production",
