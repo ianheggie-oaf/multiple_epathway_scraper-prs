@@ -69,7 +69,7 @@ module EpathwayScraper
       disable_ssl_certificate_check: true
     },
     inverell: {
-      url: "http://203.49.140.77/ePathway/Production",
+      url: "https://epathway.inverell.nsw.gov.au/ePathway/Production",
       state: "NSW",
       lists: [:all_this_year],
       # Looks like it's blocking requests from outside Australia
