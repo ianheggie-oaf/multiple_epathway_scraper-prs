@@ -63,11 +63,6 @@ module EpathwayScraper
       # Looks like it's blocking requests from outside Australia
       australian_proxy: true
     },
-    ipswich: {
-      url: "https://epathway.ipswich.qld.gov.au/ePathway/Production/",
-      state: "QLD",
-      lists: [:last_30_days]
-    },
     kingston: {
       url: "https://online.kingston.vic.gov.au/ePathway/Production",
       state: "VIC",
