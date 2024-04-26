@@ -27,7 +27,8 @@ module EpathwayScraper
     darebin: {
       url: "https://eservices.darebin.vic.gov.au/ePathway/Production",
       state: "VIC",
-      lists: [:all_this_year]
+      lists: [:all_this_year],
+      australian_proxy: true
     },
     frankston: {
       url: "https://epathway.frankston.vic.gov.au/ePathway/Production",
