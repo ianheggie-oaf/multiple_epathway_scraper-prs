@@ -140,6 +140,11 @@ module EpathwayScraper
       state: "VIC",
       lists: [:advertising]
     },
+    swan: {
+      url: "https://eservices.swan.wa.gov.au/ePathway/Production",
+      state: "WA",
+      lists: [:last_30_days]
+    },
     the_hills: {
       url: "https://epathway.thehills.nsw.gov.au/ePathway/Production",
       state: "NSW",

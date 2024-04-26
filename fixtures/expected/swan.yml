@@ -1,0 +1,565 @@
+---
+- council_reference: DA-211/2024
+  address: 188 Partridge Street, BRABHAM WA 6055
+  description: Single House
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-03-28'
+- council_reference: DA-221/2024
+  address: 88 Brooklands Drive, HENLEY BROOK WA 6055
+  description: Single House (Formed Sheet Metal Roof)
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-02'
+- council_reference: DA-226/2024
+  address: 208 Hermitage Drive, THE VINES WA 6069
+  description: Second Driveway
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: DA-227/2024
+  address: 43 Bainbridge Elbow, GIDGEGANNUP WA 6083
+  description: Exempt Single House
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: DA-228/2024
+  address: Lot 9026 Constellation Drive, BENNETT SPRINGS WA 6063
+  description: Single House
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: DA-230/2024
+  address: 40 Yoke Chase, BRABHAM WA 6055
+  description: Exempt Single House
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: DA-232/2024
+  address: 80 Brompton Heights, GIDGEGANNUP WA 6083
+  description: Water Tank - outside of approved building envelope
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: DA-242/2024
+  address: 35 Lancewood Avenue, BRIGADOON WA 6069
+  description: Exempt Water Tank
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-09'
+- council_reference: DA-251/2024
+  address: 6B Phillips Court, KIARA WA 6054
+  description: Front Fence and Patio
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: DA-255/2024
+  address: 15 Winderie Crescent, ELLENBROOK WA 6069
+  description: Home Business (Managed Services Provider), IT Support and consultation
+    services.
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-15'
+- council_reference: DA-257/2024
+  address: 1180 Berry Road, GIDGEGANNUP WA 6083
+  description: Patios
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: DA-258/2024
+  address: 6 Rayleigh Street, MIDDLE SWAN WA 6056
+  description: Cancelled - Shed/Outbuilding and Additional Driveway
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: DA-CON-476/2023/1
+  address: 32 John Street, MIDLAND WA 6056
+  description: Request for approval - Fulfilment of Condition 24 of DA-476/2023 (Waste
+    Management Plan)
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-10'
+- council_reference: DA-CON-757/2023/1
+  address: 10 Masonry Way, MALAGA WA 6090
+  description: Request for approval - Fulfilment of Condition 9 of DA-757/2023  (landscaping
+    plan)
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-05'
+- council_reference: DA-REF-33/2024
+  address: 2 Weir Road, BASKERVILLE WA 6056
+  description: Invite Comment - Swan Valley - (Carport and protico alterations and
+    additions) - (WAPC 21-50690-2)
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: DA-REF-34/2024
+  address: 147 Wilson Road, MIDDLE SWAN WA 6056
+  description: Invite Comment - Swan Valley - (Shed) - (WAPC 21-50930-1)
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: DA-REF-37/2024
+  address: 349 Haddrill Road, BASKERVILLE WA 6056
+  description: Invite Comment - Swan Valley - Retaining walls and balustrade construction
+    - (21-50793-3)
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-10'
+- council_reference: DA-REF-38/2024
+  address: Lot 34 West Swan Road, CAVERSHAM WA 6055
+  description: Invite Comment - Swan Valley - Sea Container (21-50932-1)
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-17'
+- council_reference: PA1-330/2024
+  address: 67 Fantail Crescent, ELLENBROOK WA 6069
+  description: Planning Enquiry - (removal of brush fencing to the rear of the property)
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-03-28'
+- council_reference: PA1-332/2024
+  address: 5 Hoking Cove, ELLENBROOK WA 6069
+  description: Invite Comment - Department of Communities - Public Works - Grouped
+    Dwellings (2)
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-03-28'
+- council_reference: PA1-336/2024
+  address: Lot 9026 Constellation Drive, BENNETT SPRINGS WA 6063
+  description: Planning Enquiry - (Clarification of LDP requirements Lot 898 Cetus
+    Loop BENNETT SPRINGS)
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-02'
+- council_reference: PA1-337/2024
+  address: Lot 87 Stock Road, BULLSBROOK WA 6084
+  description: Planning Enquiry - Zoning
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-02'
+- council_reference: PA1-340/2024
+  address: 13 Beverley Terrace, SOUTH GUILDFORD WA 6055
+  description: Planning Enquiry - BAL and planning requirements
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: PA1-343/2024
+  address: 135 Clayton Street, BELLEVUE WA 6056
+  description: Planning Enquiry -Rules surrounding back filling against others property
+    without proper retaining
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: PA1-344/2024
+  address: 6 Bailey Place, BEECHBORO WA 6063
+  description: Planning Enquiry - Granny Flat
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: PA1-349/2024
+  address: 2023 Great Northern Highway, BULLSBROOK WA 6084
+  description: Planning Enquiry - Dome Tent for Agricultural purposes
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: PA1-351/2024
+  address: 408 Great Eastern Highway, WOODBRIDGE WA 6056
+  description: Planning Enquiry - Variations on upcoming amended R-Codes and facade
+    suitability
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: PA1-352/2024
+  address: 53 Pexton Drive, SOUTH GUILDFORD WA 6055
+  description: Planning Enquiry - Confirmation as to whether SPP will have implications
+    on planning application
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: PA1-353/2024
+  address: 6/145 Beringarra Avenue, MALAGA WA 6090
+  description: Planning Enquiry - Whether DA is required
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: PA1-354/2024
+  address: 7A Beete Place, BEECHBORO WA 6063
+  description: Planning Enquiry - R-Code density requirement
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: PA1-355/2024
+  address: 54 Ruscello Way, HENLEY BROOK WA 6055
+  description: Planning Enquiry - Confirmation of zoning and whether RMD Provisions
+    apply
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: PA1-357/2024
+  address: 52 The Crescent, MIDLAND WA 6056
+  description: Planning Enquiry - Development Approval Requirement
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-05'
+- council_reference: PA1-358/2024
+  address: 652 Great Northern Highway, HERNE HILL WA 6056
+  description: Planning Enquiry - Section 40 Certificate (Producers Licence)
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-05'
+- council_reference: PA1-359/2024
+  address: 4370 Lilydale Road, GIDGEGANNUP WA 6083
+  description: Planning Enquiry - Possibility of subdivision or renovations
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-05'
+- council_reference: PA1-360/2024
+  address: 53 Harper Street, WOODBRIDGE WA 6056
+  description: Planning Enquiry - Zoning, development potential and restrictions
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-05'
+- council_reference: PA1-362/2024
+  address: 2 Midland Square, MIDLAND WA 6056
+  description: Planning Enquiry - Home based business (beauty salon-eyelash extension
+    salon)
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-08'
+- council_reference: PA1-368/2024
+  address: 44 Eveline Road, VIVEASH WA 6056
+  description: Planning Enquiry - Noise DB standards and planning requirements for
+    warehouse refurbishment
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-08'
+- council_reference: PA1-369/2024
+  address: 50 Brookmount Drive, ELLENBROOK WA 6069
+  description: "(Due 15/04) - Invite comment - Public Works - Administration Block
+    Upgrade WA6977352"
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-08'
+- council_reference: PA1-370/2024
+  address: 152 Pannage Way, BRABHAM WA 6055
+  description: Planning Enquiry - Application requirement for gate installation
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-08'
+- council_reference: PA1-372/2024
+  address: 16 Garran Loop, HENLEY BROOK WA 6055
+  description: Planning Enquiry - Driveway widening and caravan parking rules
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-08'
+- council_reference: PA1-373/2024
+  address: 3/245 Great Eastern Highway, MIDLAND WA 6056
+  description: Planning Enquiry - Emergency exit requirements
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-08'
+- council_reference: PA1-376/2024
+  address: 83 Fergusson Close, WEST SWAN WA 6055
+  description: Planning Enquiry - Tree felling on private property
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-09'
+- council_reference: PA1-377/2024
+  address: Lot 32 Railway Parade, MIDLAND WA 6056
+  description: URGENT - Invite Comment - Service Request - Internal - Asset Management
+    - Temporary Road Closure
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-09'
+- council_reference: PA1-378/2024
+  address: 39 Resource Way, MALAGA WA 6090
+  description: Concerns regarding fire risks and objection to further development
+    DA-934/2021 & DA-550/2023
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-09'
+- council_reference: PA1-380/2024
+  address: 65 Laura Grange, BRABHAM WA 6055
+  description: Planning Enquiry - Zoning requirements
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-09'
+- council_reference: PA1-381/2024
+  address: 2 Midland Square, MIDLAND WA 6056
+  description: Planning Enquiry - Potential Land Development in City of Swan
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-09'
+- council_reference: PA1-382/2024
+  address: 2 Midland Square, MIDLAND WA 6056
+  description: Planning Enquiry - Zoning
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-09'
+- council_reference: PA1-384/2024
+  address: 31 Crescendo Green, THE VINES WA 6069
+  description: Planning Enquiry -  BAL rating
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-10'
+- council_reference: PA1-386/2024
+  address: 22 Wardang Way, BENNETT SPRINGS WA 6063
+  description: Planning Enquiry - RMD setback query
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-11'
+- council_reference: PA1-387/2024
+  address: 53 Harper Street, WOODBRIDGE WA 6056
+  description: Planning Enquiry - Constraints and restrictions on the land
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-11'
+- council_reference: PA1-393/2024
+  address: 148 Catalpa Avenue, ELLENBROOK WA 6069
+  description: Service Request - Department of Communities - Public Works - Single
+    House
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: PA1-395/2024
+  address: 65 Scindian Street, ELLENBROOK WA 6069
+  description: Service Request - Department of Communities - Public Works - Single
+    House
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: PA1-397/2024
+  address: 3/12 Keane Street, MIDLAND WA 6056
+  description: Planning Enquiry - Land use permissibility
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: PA1-398/2024
+  address: 46 Ardmore Parade, ELLENBROOK WA 6069
+  description: Planning approval requirements for pergola
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: PA1-399/2024
+  address: 6 Jaldary Trail, BULLSBROOK WA 6084
+  description: Planning Enquiry - Property Boundary
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: PA1-400/2024
+  address: 1/16 Juna Drive, MALAGA WA 6090
+  description: Planning Enquiry - Training Centre in an industrial zoned area
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: PA1-406/2024
+  address: 4/36 Comserv Loop, ELLENBROOK WA 6069
+  description: Planning Enquiry - Permit for massage business
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-15'
+- council_reference: PA1-407/2024
+  address: 155 Lakes Road, HAZELMERE WA 6055
+  description: Planning Enquiry - Approval regarding structure at front of property
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-15'
+- council_reference: PA1-408/2024
+  address: 9 Nile Place, BEECHBORO WA 6063
+  description: Planning Enquiry - Proposed carport development that requires vehicle
+    access/driveway
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: PA1-409/2024
+  address: 4 Kurrat Elbow, SOUTH GUILDFORD WA 6055
+  description: Planning Enquiry - Shed or granny flat confirmation
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: PA1-410/2024
+  address: 839 Campersic Road, BRIGADOON WA 6069
+  description: Planning Enquiry - Future plans
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: PA1-411/2024
+  address: 11 Gloves Place, BEECHBORO WA 6063
+  description: Planning Enquiry - Retaining wall guidelines and approvals
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: PA1-414/2024
+  address: 19 Toucan Way, BALLAJURA WA 6066
+  description: Planning Enquiry - Subdivision query
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-17'
+- council_reference: PA1-420/2024
+  address: 31 Coniston Drive, ELLENBROOK WA 6069
+  description: Planning Enquiry - Home Cosmetic business
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-19'
+- council_reference: PA1-421/2024
+  address: 42 Maxwell Road, CAVERSHAM WA 6055
+  description: Planning Enquiry - Small business license, permits & approvals
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-19'
+- council_reference: PA1-432/2024
+  address: 20 Weir Road, BASKERVILLE WA 6056
+  description: Planning Enquiry - Shed requirements
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-22'
+- council_reference: PA1-440/2024
+  address: 15 Cinnamon Road, DAYTON WA 6055
+  description: Planning Enquiry - Zoning and RMD confirmation and copy of the approved
+    LDP
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-23'
+- council_reference: PA1-444/2024
+  address: 150 Coast Road, DAYTON WA 6055
+  description: Planning Enquiry - Zoning Information
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-24'
+- council_reference: PA2-22/2024
+  address: 34 Brooklands Drive, HENLEY BROOK WA 6055
+  description: Execution & Collection - S129BA Restrictive Covenant (Fire Separation
+    - Western Power Substation)
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-03-28'
+- council_reference: PA2-23/2024
+  address: 47 Morrison Road, WOODBRIDGE WA 6056
+  description: Execution & Collection - S70A Notification - Aircraft Noise
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-03-28'
+- council_reference: PA2-24/2024
+  address: 102 Hamersley Road, CAVERSHAM WA 6055
+  description: S70A Notification - Aircraft Noise & Flood Prone Area
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: PA2-25/2024
+  address: Lot 9011 Broadmeadows Drive, BUSHMEAD WA 6055
+  description: Execution & Collection - S129BA Restrictive Covenant (Fire Separation
+    for Transformer Site)
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-17'
+- council_reference: PA2-27/2024
+  address: 3/278 Camboon Road, MALAGA WA 6090
+  description: Request for execution of replacement agreement (access restrictions)
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-22'
+- council_reference: PA2-29/2024
+  address: 15 Christina Street, HAZELMERE WA 6055
+  description: Execution & Collection - S70A Notification - Aircraft Noise
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-24'
+- council_reference: PA2-30/2024
+  address: 13 Cope Street, MIDLAND WA 6056
+  description: Execution & Return - S70A Notification - Aged or Dependent Persons
+    Dwelling
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-24'
+- council_reference: PA3-48/2024
+  address: 1594 Gnangara Road, HENLEY BROOK WA 6055
+  description: Service Request - DPLH - Landowner details request - Swan Valley
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-03-28'
+- council_reference: PA3-49/2024
+  address: 46 Rhodeswood Drive, AVELEY WA 6069
+  description: Copy of Plans - Urban Water Management Plan
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-03-28'
+- council_reference: PA3-50/2024
+  address: 5531 West Swan Road, WEST SWAN WA 6055
+  description: Planning Enquiry - Request for landowners detail - public consultation
+    WAPC 21-50655-1
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: PA3-51/2024
+  address: 1 Swan Street, HENLEY BROOK WA 6055
+  description: Service request - Swan Valley - DPLH - Landowner search details - Planning
+    compliance
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: PA3-52/2024
+  address: 6 Swan Street, HENLEY BROOK WA 6055
+  description: Service request - Swan Valley - DPLH - Landowner search details - Planning
+    compliance
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: PA3-54/2024
+  address: 62 Cheltenham Street, BENNETT SPRINGS WA 6063
+  description: Service Request - Copy of correspondence sent from City of Swan to
+    Charlie and Rose Tricoli regarding SAT orders for Snowdale Holdings Pty Ltd
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-11'
+- council_reference: PA3-55/2024
+  address: 10250 West Swan Road, HENLEY BROOK WA 6055
+  description: Service Request - DPLH - Swan Valley - Copies of plans/approvals
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-15'
+- council_reference: PA3-56/2024
+  address: 52 Swan Road, MIDDLE SWAN WA 6056
+  description: Service Request - Swan Valley - DPLH - Landowner search details (Compliance
+    Matter)
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-15'
+- council_reference: PA3-58/2024
+  address: 43 Karrak Court, GIDGEGANNUP WA 6083
+  description: Copy of Plans - Building Envelope
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-17'
+- council_reference: PA3-59/2024
+  address: 15-23 Yelverton Drive, WOODBRIDGE WA 6056
+  description: Copy of Plans - Development WA - Landowner details for public consultation
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-19'
+- council_reference: PA3-60/2024
+  address: 90A-90B Kingfisher Avenue, BALLAJURA WA 6066
+  description: Copy of Plans - Development Approval and Plans
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-22'
+- council_reference: SB-22/2024
+  address: 47 Hooley Road, MIDLAND WA 6056
+  description: Cancelled - Refer to SS-14/2024 - Invite Comment - Subdivision - (3
+    lots and 1 CP) - WAPC 240-24
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: SB-24/2024
+  address: 103 Victoria Road, DAYTON WA 6055
+  description: Invite Comment - Subdivision - (3 lots) - WAPC 200094
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-17'
+- council_reference: SSCL-39/2020/1
+  address: 20 Third Avenue, WOODBRIDGE WA 6056
+  description: Survey Strata Clearance (WAPC 831-20) - (SP 86031) - Clearance of conditions
+    2-8, 10 - (3 lots)
+  info_url: https://eservices.swan.wa.gov.au/ePathway/Production/Web/GeneralEnquiry/EnquiryLists.aspx?ModuleCode=LAP
+  date_scraped: '2019-05-15'
+  date_received: '2024-03-28'

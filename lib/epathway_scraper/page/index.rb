@@ -38,7 +38,7 @@ module EpathwayScraper
       def self.normalise_key(key, value)
         case key.downcase
         when "app no.", "application", "application no", "application number",
-             "number", "our reference"
+             "number", "our reference", "reference"
           :council_reference
         when "application date", "date", "date lodged", "date received",
              "date registered", "lodged", "lodge date", "lodged date", "submitted"

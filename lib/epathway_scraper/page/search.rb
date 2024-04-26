@@ -7,6 +7,7 @@ module EpathwayScraper
     module Search
       DATE_TAB_LABELS = [
         "Date Search",
+        "Date search",
         "Lodgement Date",
         "Date Range",
         "Date Lodged",
