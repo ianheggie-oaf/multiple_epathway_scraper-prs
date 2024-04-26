@@ -30,7 +30,7 @@ module EpathwayScraper
       def self.normalise_row_data(row)
         result = {}
         row[:content].each do |key, value|
-          result[normalise_key(key, value)] = value
+          result[normalise_key(key, value)] = value unless value.nil? || value == ""
         end
         result
       end
@@ -83,7 +83,7 @@ module EpathwayScraper
         date_format = authority == :knox ? "%m/%d/%Y" : "%d/%m/%Y"
         date_received = Date.strptime(date_received, date_format).to_s if date_received
 
-        address = normalised[:address]
+        address = normalised[:address] || ""
         suburb = normalised[:suburb]
 
         # If there's a carriage return, the second part is the lot number.

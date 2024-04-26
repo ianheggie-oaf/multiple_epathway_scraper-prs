@@ -10,7 +10,8 @@ module EpathwayScraper
     module Detail
       def self.scrape(detail_page)
         address = field(detail_page, "Application location") ||
-                  field(detail_page, "Application Location")
+                  field(detail_page, "Application Location") ||
+                  field(detail_page, "Location")
         # If address is stored in a table at the bottom
         if address.nil?
           # Find the table that contains the addresses
@@ -75,7 +76,8 @@ module EpathwayScraper
         description = field(detail_page, "Proposed Use or Development") ||
                       field(detail_page, "Application description") ||
                       field(detail_page, "Proposal") ||
-                      field(detail_page, "Application Description")
+                      field(detail_page, "Application Description") ||
+                      field(detail_page, "Description")
 
         result = {
           address: address,
