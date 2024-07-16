@@ -103,7 +103,8 @@ module EpathwayScraper
     monash: {
       url: "https://epathway.monash.vic.gov.au/ePathway/ePTHPROD",
       state: "VIC",
-      lists: [:advertising]
+      lists: [:advertising],
+      australian_proxy: true
     },
     mooney_valley: {
       url: "https://online.mvcc.vic.gov.au/ePathway/Production",
