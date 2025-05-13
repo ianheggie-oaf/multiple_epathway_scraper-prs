@@ -57,6 +57,11 @@ module EpathwayScraper
       state: "VIC",
       lists: [:last_30_days]
     },
+    hornsby: {
+      url: "https://hornsbyprd-pwy-epw.cloud.infor.com/ePathway/Production",
+      state: "VIC",
+      lists: [:last_30_days]
+    },
     inverell: {
       url: "https://epathway.inverell.nsw.gov.au/ePathway/Production",
       state: "NSW",
