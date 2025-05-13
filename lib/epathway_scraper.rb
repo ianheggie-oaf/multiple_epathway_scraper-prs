@@ -66,7 +66,7 @@ module EpathwayScraper
 
   def self.scrape_authority(authority)
     params = EpathwayScraper::AUTHORITIES[authority].merge(authority: authority)
-    scrape(params) do |record|
+    scrape(**params) do |record|
       # Putting in "ePathway" in the description must be some kind
       # of default for new records. We don't want to include these
       # because they're staggeringly unhelpful to users. Much better

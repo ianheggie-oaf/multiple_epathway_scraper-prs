@@ -2,18 +2,21 @@
 
 source "https://rubygems.org"
 
-ruby "~>2.5"
+ruby "3.2.2"
 
 gem "mechanize"
 gem "scraperwiki", git: "https://github.com/openaustralia/scraperwiki-ruby.git",
                    branch: "morph_defaults"
 
+gem "nokogiri", "~> 1.15.0"
+gem "sqlite3", "~> 1.6.3"
+
 # For development and running tests
 gem "mini_magick"
-gem "rake", "~> 12.3"
-gem "rspec", "~> 3.0"
-gem "rubocop"
+gem "rake", "~> 13.0"
+gem "rspec", "~> 3.12"
+gem "rubocop", "~> 1.73"
 gem "timecop"
 gem "vcr"
 gem "watir"
-gem "webmock"
+gem "webmock", "~> 3.19.0"
