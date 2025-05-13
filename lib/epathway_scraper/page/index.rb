@@ -41,7 +41,8 @@ module EpathwayScraper
              "number", "our reference", "reference"
           :council_reference
         when "application date", "date", "date lodged", "date received",
-             "date registered", "lodged", "lodge date", "lodged date", "submitted"
+             "date registered", "lodged", "lodge date", "lodged date", "submitted",
+             "submitted date"
           :date_received
         # This can be different from the date_received. Weird, huh?
         when "lodgement date"
